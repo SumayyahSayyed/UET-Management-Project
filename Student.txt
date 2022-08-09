@@ -1,0 +1,4 @@
+1)  Sumayyah Sayyed      Muhammad Sayyed       Female         78.81
+2)  Maliha Sabir      Ahmad Sabir       Female         66.61
+3)  Hamza Ahmad      Nouman Ahmad       Male         67.01
+4)  Ahmad Mustafa      Hashir Mustafa       Male         70
