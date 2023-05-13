@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [Language](#language)
   - [Working](#working)
-- [Methadology](#methadology)
+- [Methodology](#methodology)
   - [Programming Model](#programming-model)
   - [Functions](#functions)
   - [Libraries](#libraries)
@@ -52,7 +52,7 @@ BOOK-ID | BOOK-NAME
 **- Format of Record.txt**
 STUDENT-ID | BOOK-ID
 
-## Methadology
+## Methodology
 
 ### Programming Model
 
